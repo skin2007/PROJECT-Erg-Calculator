@@ -8,11 +8,11 @@ Erg Calculator useful for calculating and managing times for rowers
 
 - [ ] Velocità
 
-[] Intuitività
+- [ ] Intuitività
 
-[] Accessibilità per tutti i dispositivi On-Line  anche per dispositivi android con un .APK
+- [ ] Accessibilità per tutti i dispositivi On-Line  anche per dispositivi android con un .APK
 
-[] Possibilità di tenere salvati i tempi controllati e selezionare quali creando un serie di medie oppure dando un valore indietro la miglioria della tirata. con        possibilità di esportare le informazioni in un file di tipo excel con già intestazione efettuata
+- [ ] Possibilità di tenere salvati i tempi controllati e selezionare quali creando un serie di medie oppure dando un valore indietro la miglioria della tirata. con        possibilità di esportare le informazioni in un file di tipo excel con già intestazione efettuata
 
 **VELOCITA' :**
 

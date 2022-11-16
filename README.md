@@ -6,7 +6,7 @@ Erg Calculator useful for calculating and managing times for rowers
 
 **PERCHE' SCEGLIERE NOI? :**
 
-- t[ ] Velocità
+- [ x ] Velocità
 
 - [ ] Intuitività
 

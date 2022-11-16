@@ -1,4 +1,4 @@
-# PROJECT-Erg-Calculator
+vbb# PROJECT-Erg-Calculator
 
 **SHORT DESCRIPTION :**
 
@@ -6,7 +6,7 @@ Erg Calculator useful for calculating and managing times for rowers
 
 **PERCHE' SCEGLIERE NOI? :**
 
-- [t] Velocità
+- [T] Velocità
 
 - [ ] Intuitività
 

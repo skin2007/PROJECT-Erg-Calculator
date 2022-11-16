@@ -6,7 +6,7 @@ Erg Calculator useful for calculating and managing times for rowers
 
 **PERCHE' SCEGLIERE NOI? :**
 
-- [ ] Velocità
+- [t] Velocità
 
 - [ ] Intuitività
 
@@ -28,13 +28,13 @@ PROCEDIMENTO:
 
 PIATTAFORME UTILIZZATE:
 
-- Django  LINK --> 
+-1 Django  LINK --> 
 
 URL DI VIDEO UTILI:
 
 LINGUAGGI:
 
-- Python (Django essendo completamente il linguaggio py, è necessario utilizzare quest'ultimo)
+-1 Python (Django essendo completamente il linguaggio py, è necessario utilizzare quest'ultimo)
 
 
 

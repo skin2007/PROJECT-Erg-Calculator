@@ -1,5 +1,3 @@
-PROJECT-Erg-Calculator
-
 **SHORT DESCRIPTION :**
 
 Erg Calculator useful for calculating and managing times for rowers
@@ -22,7 +20,7 @@ Erg Calculator useful for calculating and managing times for rowers
 
 1- L'interfaccia si presenta in maniera funzionale e con un tutorial molto facile per spiegare il funzionamento e le formule che vengono applicate nell'algoritmo.
 
-**ACESSIBILTITA' :*
+**ACESSIBILTITA' :**
 
 -1 Essendo un sito web è accessibile da tutti i dispositivi con interfaccia adeguata sua per siti desktop che non.
 

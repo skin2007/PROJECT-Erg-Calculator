@@ -27,9 +27,10 @@ Erg Calculator useful for calculating and managing times for rowers
 **SALVATAGGIO TEMPI :**
 
 -1 Ha un sistema integrato basato su un algoritmo che prevede :
-- Salvataggio TEMPO
-- Salvataggio MEDIE
-- Salvataggio WATTS
+> 1- Salvataggio TEMPO
+> 2- Salvataggio MEDIE
+> 3- Salvataggio WATTS
+> 4- Esportazione in EXCEL
 
 **INFORMAZIONI UTILI :**
 

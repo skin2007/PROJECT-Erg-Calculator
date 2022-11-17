@@ -26,7 +26,7 @@ Erg Calculator useful for calculating and managing times for rowers
 
 **SALVATAGGIO TEMPI :**
 
--1 Ha un sistema integrato basato su un algoritmo che prevede :
+Ha un sistema integrato basato su un algoritmo che prevede :
 > 1- Salvataggio TEMPO
 
 > 2- Salvataggio MEDIE

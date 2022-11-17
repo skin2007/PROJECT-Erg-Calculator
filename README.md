@@ -1,4 +1,4 @@
-vbb# PROJECT-Erg-Calculator
+PROJECT-Erg-Calculator
 
 **SHORT DESCRIPTION :**
 
@@ -16,25 +16,39 @@ Erg Calculator useful for calculating and managing times for rowers
 
 **VELOCITA' :**
 
-INTUITIVITA': 
+1- Data la semplicezza dell'interfaccia e una ottima ottomizazione si va ad ottenere un sito web che risponde in maniera rapina e senza errori.
 
-ACESSIBILTITA' :
+**INTUITIVITA' :**
 
-SALVATAGGIO TEMPI:
+1- L'interfaccia si presenta in maniera funzionale e con un tutorial molto facile per spiegare il funzionamento e le formule che vengono applicate nell'algoritmo.
 
-INFORMAZIONI UTILI:
+**ACESSIBILTITA' :*
 
-PROCEDIMENTO:
+-1 Essendo un sito web è accessibile da tutti i dispositivi con interfaccia adeguata sua per siti desktop che non.
 
-PIATTAFORME UTILIZZATE:
+**SALVATAGGIO TEMPI :**
 
--1 Django  LINK --> 
+-1 Ha un sistema integrato basato su un algoritmo che prevede :
+- Salvataggio TEMPO
+- Salvataggio MEDIE
+- Salvataggio WATTS
 
-URL DI VIDEO UTILI:
+**INFORMAZIONI UTILI :**
 
-LINGUAGGI:
 
--1 Python (Django essendo completamente il linguaggio py, è necessario utilizzare quest'ultimo)
+
+**PROCEDIMENTO :**
+
+URL DI VIDEO UTILI :
+
+
+
+LINGUAGGI :
+
+- Python
+  -DJango
+
+- HTML
 
 
 

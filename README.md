@@ -43,6 +43,7 @@ Ha un sistema integrato basato su un algoritmo che prevede :
 **PROCEDIMENTO :**
 
 **FRONT-END**
+
 Per prima cosa bisogna creare la parte **FRONT-END** del sito web utilizzando il comune linguaggio HTML, il codice sorgente si trova nelle seguenti sezioni.
 Ho deciso di creare un interfaccia molto *FACILE* e *INTUITIVA* ma *FUNZIONALE*, nella parte superiore si trova una *NAVBAR* che permette di SWITCHARE tra le macchine più riconosciute e ufficiale della *CONCEPT2*, dopodichè ho inserito al di sotto la DISTANZA da inserire e ho specificato l'unità di misura (m), la media split 500m, il tempo effettutato, nelle ultime due modalità ho diviso in due parti : la parte di sinistra dedicata ai minuti e quella di destra dedicata ai secondi. Al di sotto di ogni di queste 3 funzioni ho inserito un "TASTO" per calcolare il dato corrispodente conoscendo gli altri 2 valori quali essi siano. Nella ultima parte sotto si trova il *WATTS* calculator.
 La inpaginazione è stat divisa in 2 parti nella parte di sinistra troviamo il pace-calculator e nella parte di sinistra alcune informazioni riguardanti l'utilizzo e le formule utilizzate.
